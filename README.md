@@ -19,9 +19,7 @@ Practicar y demostrar un flujo de análisis de datos con Python: revisar la cali
 ## Los datos
 
 - **Dataset:** *Student Performance in Exams*, 1,000 filas y 8 columnas: género, grupo, nivel educativo de los padres, tipo de almuerzo, curso de preparación y las notas de matemáticas, lectura y escritura.
-- **Fuente:** **[COMPLETAR: enlace de donde lo descargaste]**.
 - **Calidad:** sin valores nulos ni filas duplicadas.
-- **Aviso:** este dataset educativo suele describirse como **ficticio**. Los resultados sirven para practicar, no para sacar conclusiones sobre estudiantes reales.
 
 ## Preguntas y hallazgos
 
@@ -46,13 +44,6 @@ Todas las diferencias entre grupos de curso, almuerzo y género tienen un p-valo
 |---|---|
 | ![Almuerzo](images/04_almuerzo.png) | ![Reprobación](images/09_reprobacion.png) |
 | ![Almuerzo y curso](images/08_almuerzo_y_curso.png) | ![Correlación](images/10_correlacion.png) |
-
-## Precauciones al interpretar
-
-- Los resultados son **asociaciones, no causas**: los datos no permiten afirmar que el curso o el almuerzo provoquen las diferencias.
-- El tipo de almuerzo es un **indicador indirecto** del nivel socioeconómico.
-- El **género y el grupo** son variables sensibles. Se describen sin generalizar, y los grupos A a E no tienen un significado conocido.
-- Las categorías A-F usan una **escala supuesta**, no la de una institución real.
 
 ## Cómo ejecutarlo
 
@@ -80,4 +71,4 @@ El notebook lee los datos con la ruta relativa `../data/StudentsPerformance.csv`
 
 ## Autor
 
-**[Tu nombre]** · [LinkedIn](https://www.linkedin.com/) · [Correo]
+**[Edwin Mejia]** · [LinkedIn](https://www.linkedin.com/in/edwin-andres-mejia-marin-6a3646368/) · [edwin.mejia@utp.edu.co]· [edwinandresmejiamarin@gmail.com]
